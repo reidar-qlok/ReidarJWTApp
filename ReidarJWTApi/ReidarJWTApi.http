@@ -1,0 +1,6 @@
+@ReidarJWTApi_HostAddress = http://localhost:5120
+
+GET {{ReidarJWTApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
